@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZJMaricle_Example' do
+  pod 'ZJMaricle', :path => '../'
+
+  target 'ZJMaricle_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
