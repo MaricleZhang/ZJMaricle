@@ -1,0 +1,22 @@
+{
+  "name": "ZJMaricle",
+  "version": "0.1.0",
+  "summary": "A short description of ZJMaricle.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/929006968@qq.com/ZJMaricle",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "929006968@qq.com": "jian.zhang@yuntu-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/929006968@qq.com/ZJMaricle.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZJMaricle/Classes/**/*"
+}
